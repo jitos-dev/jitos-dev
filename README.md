@@ -30,7 +30,7 @@ const aboutMe = {
 };
 ```
 
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)]([https://www.linkedin.com/in/engincan-veske-b4a75b145/](https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0))
 
 <!--
 **jitos86/jitos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
