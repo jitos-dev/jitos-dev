@@ -1,7 +1,7 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
 
-<h2>Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
+<h2 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
 
 
 <h3>¿Quieres saber un poco más sobre mí?</h3>
@@ -30,6 +30,7 @@ const aboutMe = {
 };
 ```
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)](https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jitos86@gmail.com)](mailto:jitos86@gmail.com)
 
 <!--
 **jitos86/jitos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
