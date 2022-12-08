@@ -1,7 +1,7 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
 
-<h2 style="text-align:center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
+<h2 style="text-align: center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
 
 
 ¿Quieres saber un poco más sobre mí?
