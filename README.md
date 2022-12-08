@@ -29,7 +29,7 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-
+</br>
 # Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
