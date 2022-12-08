@@ -3,7 +3,7 @@
 
 <h2 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
 
-
+</br>
 <h3>¿Quieres saber un poco más sobre mí?</h3>
 
 ```javascript
