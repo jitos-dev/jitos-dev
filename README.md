@@ -1,10 +1,11 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
-<br/>
+
 <h2>Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
 
 
 <h3>¿Quieres saber un poco más sobre mí?</h3>
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
