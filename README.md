@@ -25,8 +25,7 @@ const aboutMe = {
       databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate"],
       mobile: ["Android"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["last month student, open for job opportunities"]
 };
 ```
 </br>
