@@ -1,5 +1,9 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
+### Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java
+
+
+¿Quieres saber un poco más sobre mí?
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -24,7 +28,7 @@ const aboutMe = {
 };
 ```
 
-### Hi there 👋
+
 
 <!--
 **jitos86/jitos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
