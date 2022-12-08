@@ -30,7 +30,7 @@ const aboutMe = {
 };
 ```
 </br>
-# Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px">
+<h2>Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px"></h2>
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
    <img align="left" alt="Linkedin" width="24px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
