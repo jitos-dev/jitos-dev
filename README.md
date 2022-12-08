@@ -30,18 +30,19 @@ const aboutMe = {
 };
 ```
 
-# Conecta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px">
+# Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px">
 
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/">
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
  <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:jitos86@gmail.com">
  <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
 </a>
 
+<!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)](https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jitos86@gmail.com)](mailto:jitos86@gmail.com)
-
+-->
 <!--
 **jitos86/jitos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
