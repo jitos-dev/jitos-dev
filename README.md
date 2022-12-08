@@ -33,10 +33,13 @@ const aboutMe = {
 # Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
- <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
+   <img align="left" alt="Linkedin" width="24px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:jitos86@gmail.com">
- <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
+   <img align="left" alt="Gmail" width="26px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
+</a> &nbsp;&nbsp;
+<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">
+   <img align="left" alt="Curriculum Vitae" width="26px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />
 </a>
 
 <!--
