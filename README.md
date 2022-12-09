@@ -19,7 +19,6 @@ const aboutMe = {
       },
       backEnd: {
          java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
-         js: ["Node", "Express"],
          PHP: ["Codeigniter"]
       },
       databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate"],
