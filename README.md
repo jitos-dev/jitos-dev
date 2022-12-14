@@ -1,12 +1,15 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
 
-<h2 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h2>
+<h1 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h1>
 
-</br>
-<h3>¿Quieres saber un poco más sobre mí?</h3>
+___
 
-```javascript
+<br>
+
+## ¿Quieres saber un poco más sobre mí?
+
+~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Java, Kotlin, PHP, Javascript, Typescript, HTML, CSS, SQL],
@@ -26,19 +29,31 @@ const aboutMe = {
    },
    currentOccupation: ["last month student, open for job opportunities"]
 };
-```
+~~~
+
 </br>
-<h2>Contacta conmigo <img src="https://github.com/jitos86/jitos86/blob/master/apreton-manos.gif" height="32px"></h2>
+
+## ¿Quieres contactar conmigo?
+
+<br>
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
-   <img align="left" alt="Linkedin" width="24px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
+   <img align="left" alt="Linkedin" width="44px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:jitos86@gmail.com">
-   <img align="left" alt="Gmail" width="26px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
+   <img align="left" alt="Gmail" width="46px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
 </a> &nbsp;&nbsp;
 <a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">
-   <img align="left" alt="Curriculum Vitae" width="26px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />
+   <img align="left" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />
 </a>
+
+## Alguno de mis proyectos
+
+* [CalculatorPan](https://github.com/jitos-dev/Calculator-pan "App para el cálculo de las recetas de panadería")
+
+* [Registro de usuarios Spring](https://github.com/jitos-dev/RegistroUsuariosSpring "Registro y login de usuarios con Spring-Security")
+
+* [Twittor](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)](https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)
