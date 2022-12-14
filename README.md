@@ -37,15 +37,16 @@ const aboutMe = {
 
 <br>
 
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/" target="_blank">
-   <img align="left" alt="Linkedin" width="44px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:jitos86@gmail.com">
-   <img align="left" alt="Gmail" width="46px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />
-</a> &nbsp;&nbsp;
-<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">
-   <img align="left" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />
-</a>
+* <img align="center" alt="Linkedin" width="44px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/">Linkedin</a>
+
+* <img align="center" alt="Gmail" width="46px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />&nbsp;&nbsp;
+<a href="mailto:jitos86@gmail.com">jitos86@gmail.com</a> 
+
+* <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />&nbsp;&nbsp;
+<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">Descargar currículum</a>
+
+<br>
 
 ## Alguno de mis proyectos
 
@@ -55,7 +56,15 @@ const aboutMe = {
 
 * [Twittor](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
 
+* [¿Quieres ver el resto?](https://github.com/jitos-dev?tab=repositories "Repositorio de GitHub")
+
 <!--
+&nbsp;&nbsp;
+
+<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">
+   <img align="left" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />&nbsp;&nbsp;Descargar currículum
+</a>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)](https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jitos86@gmail.com)](mailto:jitos86@gmail.com)
 -->
