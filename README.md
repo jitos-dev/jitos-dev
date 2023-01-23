@@ -41,7 +41,7 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/">Linkedin</a>
 
 * <img align="center" alt="Gmail" width="46px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />&nbsp;&nbsp;
-<a href="mailto:jitos86@gmail.com">jitos86@gmail.com</a> 
+<a href="mailto:jitos@jitos.dev">jitos@jitos.dev</a> 
 
 * <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />&nbsp;&nbsp;
 <a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">Descargar currículum</a>
