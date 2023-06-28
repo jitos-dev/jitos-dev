@@ -1,7 +1,7 @@
 <img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
 
 
-<h1 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack junior especializado en Java</h1>
+<h1 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack especializado en Java</h1>
 
 ___
 
@@ -22,12 +22,13 @@ const aboutMe = {
       },
       backEnd: {
          java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
-         PHP: ["Codeigniter"]
+         PHP: ["Codeigniter"],
+         Otras: ["Docker"]
       },
-      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate"],
+      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
       mobile: ["Android"]
    },
-   currentOccupation: ["last month student, open for job opportunities"]
+   currentOccupation: ["I continue training and open for job opportunities"]
 };
 ~~~
 
